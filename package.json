@@ -1,0 +1,14 @@
+{
+  "name": "comp229-f2021-week2",
+  "version": "0.0.1",
+  "description": "Demo Project for week2",
+  "main": "index.js",
+  "author": "Henry",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^16.9.4"
+  }
+}
